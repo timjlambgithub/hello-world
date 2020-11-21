@@ -1,2 +1,4 @@
 # hello-world
-first steps
+Tim's first steps
+following newbie familiarisation steps
+ready to commit . . .
